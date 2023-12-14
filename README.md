@@ -1,4 +1,4 @@
-# My_db_capstone_project: This a project to analyze the data generated from a Database. Helping groups and individuals interested to understand how to extract, transform and load data into the data warehouse. I carried out an excersise by connecting python application frontend to MySQL database backend through MySQL/Python Connection API.
+# My_db_capstone_project: This a project to analyze the data generated from a Database. Helping groups and individuals interested to understand how to extract, transform and load data into the data warehouse. I carried out an exercise by connecting python application frontend to MySQL database backend through MySQL/Python Connection API.
 Executed various code functions and commited the update to the MySQL database Schema.
 In the data analytics tools, used the advanced analytical tool called Tableau to extract data from various data sources, modify the data or filter the data in the data source pane, create a worksheet and generate a chart to analyze your data.
 Create an interactive dashboard to help better understanding of the data and enbale adequate decision making process for the organization.
